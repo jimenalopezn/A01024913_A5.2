@@ -1,0 +1,21 @@
+Resultados de ventas
+------------------------------
+Archivo de ventas : TC1.Sales.json
+Total de ventas   : 2,481.86
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+
+Resultados de ventas
+------------------------------
+Archivo de ventas : TC2.Sales.json
+Total de ventas   : 166,568.23
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+
+Resultados de ventas
+------------------------------
+Archivo de ventas : TC3.Sales.json
+Total de ventas   : 165,235.37
+Tiempo de ejecución: 0.0004 segundos
+------------------------------
+
